@@ -1,4 +1,4 @@
-package com.lqf.demo;
+package com.lqf.demo.drud;
 
 import com.alibaba.druid.filter.FilterChain;
 import com.alibaba.druid.filter.FilterEventAdapter;

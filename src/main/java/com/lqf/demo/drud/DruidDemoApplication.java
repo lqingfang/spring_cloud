@@ -1,4 +1,4 @@
-package com.lqf.demo;
+package com.lqf.demo.drud;
 
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
