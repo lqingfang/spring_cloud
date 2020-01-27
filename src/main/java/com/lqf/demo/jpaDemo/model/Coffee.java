@@ -16,7 +16,7 @@ import java.util.Date;
 
 @Entity
 @Table(name = "T_MENU")
-@Builder
+@Builder(toBuilder = true)
 @Data
 @ToString(callSuper = true)
 @NoArgsConstructor
